@@ -19,10 +19,14 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
+  bloom,
+  banking,
+  ticketing,
+  bus,
+  amazon,
   threejs,
+  arcane,
+  ceylon,
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +50,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Mobile App Developer",
     icon: mobile,
   },
   {
@@ -54,7 +58,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "UI/UX Designer",
     icon: creator,
   },
 ];
@@ -198,67 +202,190 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Bloom App",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Bloom is a revolutionary IoT-based smart gardening solution that combines traditional knowledge with cutting-edge technology.",
     tags: [
       {
-        name: "react",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Supabase",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tensorflow",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: bloom,
+    source_code_link: "https://github.com/SDGP-CS-09",
   },
   {
-    name: "Job IT",
+    name: "Banking Landing Page",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developed a responsive banking website using React.js and Tailwind CSS, delivering a modern and intuitive user interface.",
     tags: [
       {
-        name: "react",
+        name: "Tailwindcss",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "React",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Figma",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: banking,
+    source_code_link: "https://github.com/Ds-Jayawardhana/Banking_Landing_page",
   },
   {
-    name: "Trip Guide",
+    name: "Realtime Ticketing",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A modern event ticketing platform built with React and Spring Boot, featuring real-time updates using WebSocket technology.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Springboot",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Java",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: ticketing,
+    source_code_link: "https://github.com/Ds-Jayawardhana/Ticketing_System",
+  },
+  {
+    name: "Amazon Clone",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: amazon,
+    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+  },
+  {
+    name: "Bus Booking App UI",
+    description:
+      "Designed and developed a comprehensive bus booking mobile application UI showcasing a full user journey from search to payment confirmation.  ",
+    tags: [
+      {
+        name: "Photoshop",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Figma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Illustrator",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bus,
+    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+  },
+  {
+    name: "Arcane Gallery Website",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "Wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: arcane,
+    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+  },{
+    name: "CeylonOverseas Website",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "Wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ceylon,
+    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+  },{
+    name: "Amazon Clone",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: amazon,
+    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+  },{
+    name: "Amazon Clone",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: amazon,
+    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
   },
 ];
 

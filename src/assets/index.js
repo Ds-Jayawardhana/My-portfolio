@@ -6,6 +6,13 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import bloom from "./bloom.png";
+import bus from "./bus.png";
+import banking from "./banking.png";
+import ticketing from "./ticketing.png";
+import amazon from "./amazon.png";
+import ceylon from "./ceylon.png";
+import arcane from "./arcane.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -58,5 +65,12 @@ export {
   tesla,
   carrent,
   jobit,
+  bloom,
+  bus,
+  banking,
+  ticketing,
+  amazon,
   tripguide,
+  ceylon,
+  arcane,
 };
