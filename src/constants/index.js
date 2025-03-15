@@ -27,6 +27,11 @@ import {
   threejs,
   arcane,
   ceylon,
+  choice,
+  winteref,
+  zybertron,
+  aqua,
+  seafront,
 } from "../assets";
 
 export const navLinks = [
@@ -283,7 +288,7 @@ const projects = [
       },
     ],
     image: amazon,
-    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+    source_code_link: "https://github.com/Ds-Jayawardhana/Amazon-Clone-with-JS",
   },
   {
     name: "Bus Booking App UI",
@@ -307,6 +312,27 @@ const projects = [
     source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
   },
   {
+    name: "TravelSense App UI",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "Photpshop",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Figma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Illustrator",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: zybertron,
+    source_code_link: "https://www.figma.com/design/5AE43WBPWhBkmaMWjddth1/Zybertron?node-id=0-1&t=05I42j3YeR7YpVqA-1",
+  },
+  {
     name: "Arcane Gallery Website",
     description:
       "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
@@ -325,7 +351,7 @@ const projects = [
       },
     ],
     image: arcane,
-    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+    source_code_link: "https://arcanegallery.art/",
   },{
     name: "CeylonOverseas Website",
     description:
@@ -345,14 +371,34 @@ const projects = [
       },
     ],
     image: ceylon,
-    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+    source_code_link: "https://ceylonoverseas.com/",
   },{
-    name: "Amazon Clone",
+    name: "SefrontSuite Website",
     description:
       "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
     tags: [
       {
-        name: "HTML",
+        name: "CSS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Wordpress",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: seafront,
+    source_code_link: "https://seafrontsuites.net/",
+  },{
+    name: "Winteref Website",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "Wordpress",
         color: "blue-text-gradient",
       },
       {
@@ -360,33 +406,56 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Javascript",
+        name: "PHP",
         color: "pink-text-gradient",
       },
     ],
-    image: amazon,
-    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
-  },{
-    name: "Amazon Clone",
-    description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Javascript",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: amazon,
-    source_code_link: "https://www.figma.com/design/sE1I9AyNzeisfnF4VtwRPx/Bus-Booking-App?m=auto&t=xRaqq6CktGhZYCAk-6",
+    image: winteref,
+    source_code_link: "https://winteref.com/",
   },
+  
+  {
+    name: "AquaHouse Website",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "Wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: aqua,
+    source_code_link: "http://aqua.iconvisa.com/",
+  },{
+    name: "ChoiceLK(Inactive)",
+    description:
+      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+    tags: [
+      {
+        name: "Wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: choice,
+    source_code_link: "https://choicelk.com/",
+  },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };

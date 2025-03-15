@@ -13,6 +13,11 @@ import ticketing from "./ticketing.png";
 import amazon from "./amazon.png";
 import ceylon from "./ceylon.png";
 import arcane from "./arcane.png";
+import choice from "./choice.png";
+import winteref from "./winteref.png";
+import aqua from "./aqua.png";
+import seafront from "./seafront.png";
+import zybertron from "./zybertron.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -73,4 +78,9 @@ export {
   tripguide,
   ceylon,
   arcane,
+  choice,
+  winteref,
+  aqua,
+  seafront,
+  zybertron,
 };
