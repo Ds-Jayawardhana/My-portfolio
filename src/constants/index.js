@@ -47,6 +47,7 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+  
 ];
 
 const services = [
@@ -125,55 +126,51 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Freelance Graphic Designer",
+    company_name: "Fiverr",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jan 2020 -  March 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Created visually appealing designs for global clients on Fiverr.",
+      "Designed logos, banners, and promotional materials.",
+      "Worked closely with clients to meet their creative vision and deadlines."
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Freelance Web Designers",
+    company_name: "SahaDigital",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2023 - Feb 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Built professional websites tailored to client needs and branding.",
+      "Focused on optimizing user experience and site performance.",
+      "Delivered projects on time while ensuring high-quality standards."
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Social Media Manager",
+    company_name: "Grand Lanka Tours",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2024 - Jan 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Managing social media accounts to boost brand visibility for a tourism company.",
+      "Creating engaging content to attract and retain customers.",
+      "Analyzing campaign performance to optimize marketing strategies."
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Freelance Web Designer",
+    company_name: "Upsilon Solutions",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2024 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed and developed responsive websites for various clients.",
+      "Collaborated with teams to deliver user-friendly digital solutions.",
+      "Implemented modern web technologies to enhance functionality",
     ],
   },
 ];
