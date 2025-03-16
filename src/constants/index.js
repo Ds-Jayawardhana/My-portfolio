@@ -314,7 +314,7 @@ const projects = [
   {
     name: "TravelSense App UI",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      " UI for a travel app for the TechTriathlon competition by Rootcode, featuring an AI-powered travel itinerary generator and online visa application system. ",
     tags: [
       {
         name: "Photpshop",
@@ -335,7 +335,7 @@ const projects = [
   {
     name: "Arcane Gallery Website",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      "Developed a striking WordPress-based art gallery site, featuring a visually rich design and smooth functionality to spotlight artwork with elegance and ease. ",
     tags: [
       {
         name: "Wordpress",
@@ -355,7 +355,7 @@ const projects = [
   },{
     name: "CeylonOverseas Website",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      "Crafted a responsive WordPress website for Ceylon Overseas, blending custom themes and plugins to deliver a polished, user-friendly interface with seamless navigation. ",
     tags: [
       {
         name: "Wordpress",
@@ -375,7 +375,7 @@ const projects = [
   },{
     name: "SefrontSuite Website",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      "Developed the official WordPress booking website for Seafront Suites Hotel in Jeddah, Saudi Arabia, integrating the MyFatoorah payment gateway for secure payments.",
     tags: [
       {
         name: "CSS",
@@ -395,7 +395,7 @@ const projects = [
   },{
     name: "Winteref Website",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      "Official WordPress website for Winteref, an A/C repair station in Sri Lanka,responsive design to showcase services and enhance customer accessibility. ",
     tags: [
       {
         name: "Wordpress",
@@ -417,7 +417,7 @@ const projects = [
   {
     name: "AquaHouse Website",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      "Officialwebsite for AquaHouseYala, a hotel and seafood restaurant near Yala, Sri Lanka, featuring a responsive design that captures its seaside charm and culinary appeal. ",
     tags: [
       {
         name: "Wordpress",
@@ -437,7 +437,7 @@ const projects = [
   },{
     name: "ChoiceLK(Inactive)",
     description:
-      "Developed a fully responsive Amazon clone using HTML, CSS, and JavaScript that replicates the core functionality and visual design of the e-commerce giant. ",
+      " Sri Lanka’s pioneering e-commerce WordPress site, offering crypto payments for electronics, with a secure, customer-focused  robust functionality.",
     tags: [
       {
         name: "Wordpress",
